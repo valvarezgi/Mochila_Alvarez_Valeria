@@ -1,0 +1,13 @@
+¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+Por diseño y arquitectura del lenguaje. 
+Algunos lenguajes de programación están diseñados y desarrollados específicamente
+para funcionar en un determinado sistema operativo o entorno. Estos
+lenguajes pueden aprovechar características o funcionalidades específicas del 
+sistema operativo, por lo tanto, no son fácilmente portables a otros sistemas operativos
+con arquitecturas o funcionalidades diferentes
+
+¿Qué tipo de máquina virtual es VvirtualBox?
+Es un software de virtualización que permite ejecutar otro sistema operativo en su interior
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No se rompe, porque las máquinas virtuales funcionan de manera separada, tienen su propio sistema operativo
