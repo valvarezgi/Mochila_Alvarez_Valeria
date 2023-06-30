@@ -1,0 +1,16 @@
+Telnet:
+Ventajas:
+- Apto para todas las plataformas, permite conexiones desde cualquiera
+- Acceso ilimitado a recursos
+Desventajas>
+- Vulnerable porque ofrece margen de maniobra a hackers
+- No permite acceso a todos los servidores
+
+SSH
+Ventajas:
+- Facilidad de uso
+- Encriptacion para la seguridad en la transferencia de datos
+Desventajas:
+- No muy buena velocidad
+- Requiere conocimiento de los comandos
+
